@@ -28,7 +28,7 @@
 # 节点输出
 * 输出sub.txt节点文件，默认存放路径为temp
 * 订阅：分配的域名/sub;例如https://www.google.com/sub
-* 非标端口订阅(游戏类):分配的域名:端口/sub,前缀不是https，而是http，例如http://www.google.com:1234/sub
+
 
 # 其他
 * 本项目已添加自动访问保活功能，仅支持不重启停机的平台，需在第2行中添加项目分配的域名。建议配合外部自动访问保活，保活项目地址：https://github.com/eoovve/Auto-keep-online
